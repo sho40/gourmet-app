@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gourmetapp-dev-23312-authRole",
+      "UnauthRoleArn": "arn:aws:iam::654087894942:role/amplify-gourmetapp-dev-23312-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::654087894942:role/amplify-gourmetapp-dev-23312-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-gourmetapp-dev-23312-deployment",
+      "UnauthRoleName": "amplify-gourmetapp-dev-23312-unauthRole",
+      "StackName": "amplify-gourmetapp-dev-23312",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:654087894942:stack/amplify-gourmetapp-dev-23312/899c3050-05ca-11ec-a58e-0a06aaaf141b",
+      "AmplifyAppId": "d1y0n2uiztmv04"
+    }
+  }
+}
